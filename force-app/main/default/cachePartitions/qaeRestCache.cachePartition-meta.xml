@@ -3,7 +3,7 @@
     <isDefaultPartition>false</isDefaultPartition>
     <masterLabel>qaeRestCache</masterLabel>
     <platformCachePartitionTypes>
-        <allocatedCapacity>5</allocatedCapacity>
+        <allocatedCapacity>0</allocatedCapacity>
         <allocatedPurchasedCapacity>0</allocatedPurchasedCapacity>
         <allocatedTrialCapacity>0</allocatedTrialCapacity>
         <cacheType>Organization</cacheType>
